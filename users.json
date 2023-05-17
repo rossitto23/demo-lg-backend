@@ -1,0 +1,37 @@
+[
+  {
+    "email": "blabla@gmail.com",
+    "password": "test12345"
+  },
+  {
+    "email": "nico@gmail.com",
+    "password": "Test_12345!"
+  },
+  {
+    "email": "nicolas@gmail.com",
+    "password": "Test_12345!"
+  },
+  {
+    "email": "nicolas@gmail.com",
+    "password": "Test_12345!"
+  },
+  {
+    "email": "test@gmail.com",
+    "password": "helloworld"
+  },
+  {
+    "id": "4553fb08-90b7-466a-b147-8a7ac4d87d94",
+    "email": "abc@gmail.com",
+    "password": "Test12345"
+  },
+  {
+    "id": "fa381710-4d60-4363-a116-7d932f04921d",
+    "email": "nicolas.ros@gmail.com",
+    "password": "12345"
+  },
+  {
+    "id": "6762a9fb-c512-415f-a175-dba92707175f",
+    "email": "test@gmail.com",
+    "password": "sdsdsd"
+  }
+]
