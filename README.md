@@ -21,7 +21,7 @@ npm i
 npm run start:dev
 ```
  :warning: **Le frontend correspondant à ce projet est :**
-Repository du frontend : 
+Repository du frontend : [https://github.com/rossitto23/demo-lg-frontend.git](https://github.com/rossitto23/demo-lg-frontend.git)
 
 Le serveur est lancé sur l'URL [http://localhost:5000](http://localhost:5000).
 ***
